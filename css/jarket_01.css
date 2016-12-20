@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+
+#section{width: 1092px; height: 402px; padding: 68px 84px; margin: 0 auto; border-bottom: 2px solid #c21e2e; margin-bottom: 30px;}
+
+
+
+.photo{width: 400px; height: 400px; float: left; background-image: url(../img/jarket/men_01.jpg); background-repeat: no-repeat; background-size: contain;}
+.pro_box li {font-size: 1.3875rem; font-family: 'Nanum Gothic Coding', monospace; text-align: center; margin-bottom: 50px; font-weight: bold;}
+.pro_box .li_03{font-size: 1.275rem;}
+.pro_box li:last-child{font-size: 2rem; font-weight: bold;}
+.pro_box fieldset{float: right; margin-right: 14%;}
+.pro_box legend{font-size: 1.375rem; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace; float: left; margin-left: 40%;}
+.pro_box #size{width: 100px; height: 30px; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace; float: left; left: 10%;}
+.pro_box input{width: 120px; height: 40px; border-radius: 0.25rem; margin-right: 20px;float: right; margin-top: 94px; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace;}
+.pro_box .buy{background-color: #c21e2e; color: #fff; }
+.pro_box .basket{background-color: #747474; color: #fff;}
+
+.detail{width: 1092px; height: auto; margin: 0 auto; padding-left: 84px; padding-right: 84px;}
+.detail>h1{font-size: 1.5rem; font-weight: bold; margin-bottom: 10px;}
+.detail>p{font-size: 1.2rem; }  

@@ -1,0 +1,25 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+#section{width: 100%; height: 870px; }
+
+.add_banner>div{width: 100px; height: 100px; position: absolute; z-index: 100; top: 50%; margin-top: -50px; }
+.add_banner button{width: inherit; height: inherit; background-color: transparent; position: absolute;}
+.add_banner button:hover, .add_banner button:focus {outline: 0;}
+.add_banner>.left_btn{left: 0; background-image: url("../img/lbtn.png")}
+.add_banner>.right_btn{right: 0; background-image: url("../img/rbtn.png");}
+.coll_btn{left: 50%; margin-left: -50px; background-image: url(../img/coll_btn.png);}
+
+
+/* 슬라이드 배너 */
+.add_banner>ul {width: 300%; height: 870px; margin-left: -100%; }
+.add_banner li{width: 33.33333%; height: 100%; background-repeat: no-repeat; background-size: contain; background-position: center; float: left; }
+
+
+
+
+.add_01 {background-image: url(../img/levis/addBanner_01.jpg);}
+.add_02 {background-image: url(../img/levis/addBanner_05.jpg);}
+.add_03 {background-image: url(../img/levis/addBanner_06.jpg);}
+
+.add_banner>ul{transition: 1.5s;}
+.left_btn:hover ~ ul{margin-left: 0;}
+.right_btn:hover ~ ul{margin-left: -200%;}

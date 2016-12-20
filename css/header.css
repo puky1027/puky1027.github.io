@@ -1,0 +1,44 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+
+
+body{overflow-x: hidden;}
+#headBox {width: 100%; height: 100px; background-color: #fff; border-bottom: 1px solid #c21e2e;}
+.menu{width: 60px; height: 60px; background-image: url(../img/menuicon.png); background-size: contain; float: left; margin-left: 10px; margin-top: 22px; margin-bottom: 22px; }
+#headBox>h1{width: 134px; height: 56px; margin-top: 22px; margin-bottom: 22px; background-image: url("../img/logo.png"); background-repeat: no-repeat; float: left; margin-left:-67px; left: 50%; position: absolute;}
+#headBox>h1>a{width: 133px; height: 56px;}
+#headBox>h1:hover{cursor: pointer;}
+
+
+
+#sideMenu{min-width: 310px; width: auto; max-width: 620px;	height: 100%; background-color: #fff; float: left; position: fixed; z-index:500; top: 0;}
+
+#sideMenu>button{width: 60px; height: 60px; background-image: url(../img/x_mark_01.png); background-position:center; background-repeat: no-repeat; background-size: contain; float: right; margin-top: 20px; margin-right: 12px;}
+#sideMenu>.men{margin-top: 101px;}
+#sideMenu>ul{margin-top: 40px; }
+#sideMenu>ul{margin-top: 120px;  margin-left: 22px; font-size: 2.25rem; font-family: 'Nanum Gothic Coding', monospace; font-weight: bold; }
+#sideMenu>ul strong{color: #c21e2e; font-weight: bold;}
+	.sub_menu{height: 50vh;  padding-left: 18rem; padding-right: 1.375rem; overflow-y: auto;}
+#sideMenu>ul dl>dt{font-size: 1.3125rem; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace; padding-left:0.5rem;}
+#sideMenu>ul dl>dd{color:#151515; padding-left: 2rem; }
+#sideMenu>ul dl>dd li{font-size: 0.9375rem; font-family: 'Nanum Gothic Coding', monospace; margin-bottom: 0.3rem;}
+#sideMenu>ul dl>dd li:last-child{margin-bottom: 0;}
+#sideMenu a{color:inherit;}
+
+.cart{width: 60px; height: 60px; background-image: url(../img/cart.png); background-size: contain; float: right; margin-right: 10px; margin-top: 22px; margin-bottom: 22px;}
+#sideCart{width: 310px; height: 100%; background-color: #fff; float: right; position: fixed; z-index:500; top: 0; right: 0;}
+#sideCart>button{width: 60px; height: 60px; background-image: url(../img/x_mark_01.png); background-position:center; background-repeat: no-repeat; background-size: contain; float: left; margin-top: 20px; margin-left: 12px;}
+
+#sideCart>ul{width: 240px; height: 1.5rem; margin-top: 101px; margin-left: 35px; }
+#sideCart>ul>li{margin-right: 10px; float: left; font-size: 1.1875rem; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace; color: #151515;}
+#sideCart a{float: left; font-size: 1.1875rem; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace; color: #151515;}
+
+#sideCart>.sub_login{width: 300px; height: 1.5rem; margin-top: 701px; margin-left: 25px; }
+#sideCart>.sub_login>li{margin-right: 10px; float: left; font-size: 1.1875rem; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace; color: #151515;}
+
+
+
+
+
+
+.add_banner>.coll_btn{width: 100px; height: 100px;	position:fixed;	top:auto; bottom:0.5rem;	left: 50%; margin-left:-50px; z-index: 700;}
+

@@ -1,0 +1,10 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+
+#content{width: auto; height: 600px; margin: 0 auto; }
+#content>div{width: 400px; height: 600px; margin-right: 20px; }
+#content a{width: 400px; height: 600px; margin-right: 20px; }
+
+.coll_01 {background-image: url(../img/levis/content/501_jeans.jpg); background-repeat: no-repeat; background-position: center; float: left; margin-left: 121px; }
+.coll_02 {background-image: url(../img/levis/content/711_skinny.jpg); background-repeat: no-repeat; background-position: center; float: left;}
+.coll_03 {background-image: url(../img/levis/content/bestseller.jpg); background-repeat: no-repeat; background-position: center; float: left;}
+.coll_04 {background-image: url(../img/levis/content/shirt_top.jpg); background-repeat: no-repeat; background-position: center; float: left;}

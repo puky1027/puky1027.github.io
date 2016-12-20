@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+#container{height: 960px;}
+#loginBox{width: 408px; height: 368px; margin: 0 auto; margin-top: 10%; }
+
+.login_main{font-size: 3.4375rem; text-align: center; font-family: 'Nanum Gothic Coding', monospace;}
+
+.sub_log{height: 250px; border-top: 2px solid #c21e2e; border-bottom: 2px solid #c21e2e;}
+
+.sub_log>form{width: 100%; height: auto; margin-bottom:22px;}
+.sub_log fieldset{width: inherit; height: inherit; padding-top: 38px; padding-bottom: 10px;}
+
+label{width: 94px; height: 24px; font-size: 1.2875rem; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace; color: #151515; float: left; margin-top: 10px;}
+fieldset>input{width: 270px; height: 42px; text-indent: 1rem; font-size: 1.3rem; float: right; margin-bottom: 20px; margin-left: 20px; border: 1px solid #151515; background-color: #d1d1d1; }
+
+.pwName{margin-top: 40px;}
+input[type="submit"]{width: 124px; height: 40px; background-color: #c21e2e; color: #fff; text-align: center; font-size: 1.125rem; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace; float: left; margin-left: 136px; border-radius: 0.25rem; }
+input[type="reset"]{width: 124px; height: 40px; float: right; border-radius: 0.25rem; background-color: #5e5e5e;  color: #fff; text-align: center; font-size: 1.125rem; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace;}
+#loginBox>ul{width: 286px; height: 20px; margin-top:10px; margin-left: 68px;}
+#loginBox li{color: #151515; text-align: center; font-size: 1rem; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace;float: left; margin-right: 10px;}
+#loginBox li:last-child{margin-left: 0;}

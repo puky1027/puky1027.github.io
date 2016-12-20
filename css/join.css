@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+#container{height: 1420px;}
+#joinBox{width: 1260px; margin: 0 auto; margin-top: 30px; border-bottom: 2px solid #c21e2e;}
+#joinBox>h1{font-size: 2.4375rem; color: #151515; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace; margin-bottom: 10px;}
+fieldset>legend{width: 0; height: 0; overflow: hidden;}
+.join{width: 1168px; height: 344px; padding: 53px 46px; margin: 0 auto; border-bottom: 2px solid #c21e2e;}
+.join_read{width: 156px; height: auto; padding-right: 30px; float: left; }
+.join li{width: 100%; min-height: 28px; height: auto; margin-bottom: 36px; }
+.join_read label{font-size: 1.5rem; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace; float: left; }
+.join_write {width: 302px; height: auto; float: left; margin-left: 200px; }
+.join_write li{width: 100%; min-height: 28px; height: auto; margin-bottom: 36px;  }
+.join input{width: 302px; height: 32px; border: 1px solid #111; float:left;}
+input[type="button"]{width: 120px; height: 26px; background-color: #888281; color: #fff; font-size: 0.75rem; border: 0; border-radius: 0.25rem; font-family: 'Nanum Gothic Coding', monospace;  float: left; margin-left: 20px; margin-top: 4px;}
+
+.agreeBox{width: 1168px; height: 630px; margin: 0 auto; padding-top: 42px; padding-left: 46px; padding-right: 46px; border-bottom: 2px solid #c21e2e;}
+h3{font-size: 1.8rem; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace; }
+.agreeBox>div{width: 1168px; height: 500px; overflow-y: scroll; border: 1px solid #000; float: left; margin-right: 20px; margin-top: 30px;}
+.agree_01>p{font-size: 1rem; font-family: 'Nanum Gothic Coding', monospace; padding-left: 20px; padding-right: 20px;}
+
+
+input[type="checkbox"]{width: 26px; height: 30px; margin-top: 12px; float: right;}
+.agreeBox>label{font-size: 1.2rem; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace; float: right; margin-top: 16px; }
+
+#container>form{width: 1168px; height: auto; margin: 0 auto; padding: 30px 46px;}
+.send_btn{width: 250px; height: 40px; float: right; }
+#joinSend{width: 120px; height: 40px; font-size: 1.5rem; font-family: 'Nanum Gothic Coding', monospace; text-align: center; float: left; background-color: #c21e2e; color: #fff; border-radius:0.25rem;}
+#joinReset{width: 120px; height: 40px; font-size: 1.5rem; font-family: 'Nanum Gothic Coding', monospace; text-align: center; float: right; background-color: #4a4a4a; color: #fff; border-radius:0.25rem;}

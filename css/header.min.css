@@ -1,0 +1,8 @@
+#headBox{width:100%;height:100px;background-color:#fff;border-bottom:1px solid #c21e2e}.menu{width:60px;height:60px;background-image:url(../img/menuicon.png);background-size:contain;float:left;margin-left:10px;margin-top:22px;margin-bottom:22px}
+h1{width:134px;height:56px;margin-top:22px;margin-bottom:22px;background-image:url("../img/logo.png");background-repeat:no-repeat;float:left;margin-left:-67px;left:50%;position:absolute}
+h1>a{width:133px;height:56px}h1:hover{cursor:pointer}.cart{width:60px;height:60px;background-image:url(../img/cart.png);background-size:contain;float:right;margin-right:10px;margin-top:22px;margin-bottom:22px}
+#sideMenu{min-width:310px;width:auto;height:100%;background-color:#fff;float:left;position:fixed;z-index:500;top:0;left:-310px}#sideMenu>button{width:60px;height:60px;background-image:url(../img/x_mark_01.png);background-position:center;background-repeat:no-repeat;background-size:contain;float:right;margin-top:20px;margin-right:12px}
+#sideMenu>.men{margin-top:101px}#sideMenu>ul{margin-top:40px;margin-left:22px;font-size:2.25rem;font-family:'Nanum Gothic Coding',monospace;font-weight:bold}
+#sideMenu>ul strong{font-weight:bold;color:#fa9}.sub_menu{padding-left:15rem}#sideMenu>ul dl>dt{font-weight:bold;color:#fa0;padding-left:.5rem}#sideMenu>ul dl>dd{color:#777;padding-left:2rem}
+#sideMenu>ul dl>dd li{margin-bottom:.3rem}#sideMenu>ul dl>dd li:last-child{margin-bottom:0}#sideMenu a{color:inherit}.men>ol{font-size:1.3125rem;font-weight:bold;font-family:'Nanum Gothic Coding',monospace}
+.men li{font-size:.9375rem}

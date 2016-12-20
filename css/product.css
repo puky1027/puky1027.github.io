@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+
+#product{}
+.product_top{width: 1260px; height: auto; margin: 0 auto; margin-top: 30px; border-bottom: 2px solid #c21e2e;}
+.product_top>h1{font-size: 2.4375rem; color: #151515; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace; margin-bottom: 20px;}
+
+.product_main{width: 1156px; height: auto; margin: 0 auto; padding: 52px;}
+.product_main p{text-align: center; font-size: 1.25rem; font-weight: bold; font-family: 'Nanum Gothic Coding', monospace; float: left; margin: 0 22%; margin-top: 10px;/* margin-left: 25%;*/}
+.product_main .center{margin: 0 32%;}
+.product_main li{width: 336px; height: 336px; float: left; margin-right: 74px; margin-bottom: 108px; }
+.product_main .last{margin-right: 0;}
+.product_main a{width: 336px; height: 336px; float: left;} 
+.product_01{background-image: url(../img/jarket/men_01.jpg); background-repeat: no-repeat; background-size: contain;}
+.product_02{background-image: url(../img/jarket/men_02.jpg); background-repeat: no-repeat; background-size: contain;}
+.product_03{background-image: url(../img/jarket/men_03.jpg); background-repeat: no-repeat; background-size: contain;}
+.product_04{background-image: url(../img/jarket/men_04.jpg); background-repeat: no-repeat; background-size: contain;}
+.product_05{background-image: url(../img/jarket/men_05.jpg); background-repeat: no-repeat; background-size: contain;}
+.product_06{background-image: url(../img/jarket/men_06.jpg); background-repeat: no-repeat; background-size: contain;}
+.product_07{background-image: url(../img/jarket/men_07.jpg); background-repeat: no-repeat; background-size: contain;}
+.product_08{background-image: url(../img/jarket/men_08.jpg); background-repeat: no-repeat; background-size: contain;}
+.product_09{background-image: url(../img/jarket/men_09.jpg); background-repeat: no-repeat; background-size: contain;}
+.product_10{background-image: url(../img/jarket/men_10.jpg); background-repeat: no-repeat; background-size: contain;}
+.product_11{background-image: url(../img/jarket/men_11.jpg); background-repeat: no-repeat; background-size: contain;}
+.product_12{background-image: url(../img/jarket/men_12.jpg); background-repeat: no-repeat; background-size: contain;}
